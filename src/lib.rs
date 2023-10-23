@@ -46,7 +46,6 @@
 #![feature(specialization)]
 #![feature(concat_idents)]
 #![feature(iter_advance_by)]
-#![feature(no_coverage)]
 #![feature(int_roundings)]
 
 pub mod core;
